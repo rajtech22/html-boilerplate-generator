@@ -1,16 +1,7 @@
 # html-boilerplate-generator
 Generates an html5 boilerplate with basic styling applied.
-
----
-
 I've compiled an ahk script to generate a basic html boilerplate with a little css styling applied
-
----
-
 # Steps involved:
-
----
-
 * Asks you for the file name
 * Asks you for the folder name
 * Opens Notepad
@@ -23,7 +14,5 @@ I've compiled an ahk script to generate a basic html boilerplate with a little c
 * Opens the folder
 * Presses !s or Alt+S in order to save
 * Closes Notepad
----
-# Important Notes
----
+* # Important Notes
 Project only works on windows machines.
